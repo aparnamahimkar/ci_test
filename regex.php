@@ -9,3 +9,4 @@ $str = " Patriotic ";
 echo "***".trim($str)."***";
 
 echo "testing";
+echo "testing";
