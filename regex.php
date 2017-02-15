@@ -7,3 +7,5 @@ echo preg_match("/[a-zA-Z]{3}(\s)(\d{1,2})(\,\s)(\d{4})/",$received_date);
 exit;
 $str = " Patriotic ";
 echo "***".trim($str)."***";
+
+echo "testing";
